@@ -1,0 +1,16 @@
+{
+  "name": "地藏信仰",
+  "short_name": "地藏信仰",
+  "description": "阅读经典佛教经典",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#8B6914",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
