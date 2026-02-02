@@ -213,6 +213,7 @@ body.use-traditional .traditional-label {
   gap: 2.5rem;
   max-width: 1000px;
   width: 100%;
+  margin-top: 3rem; /* Space below toggle buttons on mobile */
 }
 
 /* Hero Text */
@@ -1096,6 +1097,7 @@ body.show-pinyin rt {
     flex-direction: row;
     justify-content: center;
     gap: 4rem;
+    margin-top: 0; /* Reset mobile spacing */
   }
 
   .hero-text {
